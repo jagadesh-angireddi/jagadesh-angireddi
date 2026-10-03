@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @jagadeesh-angireddi
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning java script and python
-- 💞️ I’m looking to collaborate on python and java script projects
-- 📫  reach me ...jagadespspk@gmail.com
+- 👀 Working on Python and GenAI
+- 📫  reach me ...ajagadesh98@gmail.com
 
 <!---
 jagadesh-angireddi/jagadesh-angireddi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
